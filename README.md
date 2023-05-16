@@ -37,7 +37,7 @@ very far from perfect but will not give up and keep trying to be better
   
   
 
-<code><img  hight="20"  src="http://asissta.yn.lt/icn/php.png"></code> PHP
+<code><img  height="20"  src="http://asissta.yn.lt/icn/php.png"></code> PHP
 
 <code><img  height="20"  src="http://asissta.yn.lt/icn/nodejs.png"></code> NodeJs
 
