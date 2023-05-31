@@ -24,7 +24,7 @@
 
   
 
-- **Hobbies:** Playing Games, Learning Coding, Sleeping
+- **Hobbies:** Playing Games, Learning Coding, Sleeping, 
 
 Just someone who is learning programming, learning only from watching tutorials.
 very far from perfect but will not give up and keep trying to be better
